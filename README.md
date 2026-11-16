@@ -1,4 +1,4 @@
-# jarvis-yt-brain
+# YouTube Brain
 
 YouTube watch history → filtered, transcribed, summarized Markdown notes →
 exposed to JARVIS over the agent bus.
