@@ -1,0 +1,25 @@
+[Unit]
+Description=yt-brain webhook (Tampermonkey watch buffer receiver)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/jarvis-yt-brain/yt_brain
+ExecStart=%h/jarvis-yt-brain/yt_brain/.venv/bin/python %h/jarvis-yt-brain/yt_brain/webhook.py
+Restart=on-failure
+RestartSec=5
+
+NoNewPrivileges=yes
+PrivateTmp=no
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=%h/jarvis-yt-brain
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+RestrictSUIDSGID=yes
+RestrictRealtime=yes
+LockPersonality=yes
+MemoryDenyWriteExecute=yes
+
+[Install]
+WantedBy=default.target

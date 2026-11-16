@@ -1,0 +1,603 @@
+{
+  "generated": "2026-11-16T05:06:13+00:00",
+  "total_notes": 59,
+  "topics": [
+    "agents",
+    "dev-craft",
+    "linux-infra",
+    "llm-core",
+    "ml-training"
+  ],
+  "notes": [
+    {
+      "video_id": "2026-10-09-agentic-ai-full-course-part6",
+      "title": "untitled",
+      "url": "",
+      "watched": "",
+      "source": "",
+      "path": "agents/2026-10-09-agentic-ai-full-course-part6.md",
+      "topic": "agents",
+      "indexed": "2026-11-15T05:48:44+00:00"
+    },
+    {
+      "video_id": "fine_tune_local_part2",
+      "title": "untitled",
+      "url": "",
+      "watched": "",
+      "source": "",
+      "path": "ml-training/fine_tune_local_part2.md",
+      "topic": "ml-training",
+      "indexed": "2026-11-15T05:48:44+00:00"
+    },
+    {
+      "video_id": "f4fKkRnjzhU",
+      "title": "I Gave ChatGPT, Claude and Codex One Shared Brain",
+      "url": "https://www.youtube.com/watch?v=f4fKkRnjzhU&t=237s",
+      "watched": "2026-10-20 19:55",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-11-13-i-gave-chatgpt-claude-and-codex-one-shared-brain.md",
+      "topic": "llm-core",
+      "indexed": "2026-11-13T03:04:01+00:00"
+    },
+    {
+      "video_id": "OUxwcLOdf1s",
+      "title": "Add Your Own Keyboard Shortcuts in Omarchy",
+      "url": "https://www.youtube.com/watch?v=OUxwcLOdf1s&pp=wgIGCgQQARgD0gcJCVAApj3NqvgS&feature=push-fr&attr_tag=gTKfcAbwJ6K8KZdd%3A6&parentCsn=6NNl23-3Ti-6rnW7&parentTrackingParams=CAYQhsUBIhMI8b_ytoHTlwMVyLeuBR0f6hoakgEYVUM5Q0Z4T0JGWUVCeEZ1QkRkZk82RHRBsgEpChZIbWJQdTd6TzhSS1cwamNOVmVPXzhBEJQBGgwI06jz1gYQuPrl9AI%3D",
+      "watched": "2026-10-24 21:24",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-11-13-add-your-own-keyboard-shortcuts-in-omarchy.md",
+      "topic": "linux-infra",
+      "indexed": "2026-11-13T03:02:37+00:00"
+    },
+    {
+      "video_id": "P4uzfNuSL5E",
+      "title": "How to Setup and Customize Quickshell on Hyprland",
+      "url": "https://www.youtube.com/watch?v=P4uzfNuSL5E",
+      "watched": "2026-10-25 22:13",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-11-13-how-to-setup-and-customize-quickshell-on-hyprland.md",
+      "topic": "linux-infra",
+      "indexed": "2026-11-13T03:02:11+00:00"
+    },
+    {
+      "video_id": "c1gC5tU3_YM",
+      "title": "I Build Offline Voice Assistant For Hyprland + Arch Linux",
+      "url": "https://www.youtube.com/watch?v=c1gC5tU3_YM",
+      "watched": "2026-10-25 22:17",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-11-13-i-build-offline-voice-assistant-for-hyprland-arch-linux.md",
+      "topic": "linux-infra",
+      "indexed": "2026-11-13T03:01:56+00:00"
+    },
+    {
+      "video_id": "P6qsd3HihU0",
+      "title": "Omarchy Explained: A Deep Dive",
+      "url": "https://www.youtube.com/watch?v=P6qsd3HihU0",
+      "watched": "2026-10-25 22:19",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-11-13-omarchy-explained-a-deep-dive.md",
+      "topic": "linux-infra",
+      "indexed": "2026-11-13T03:00:21+00:00"
+    },
+    {
+      "video_id": "sNE7mJKa69M",
+      "title": "An AI Agent with Its Own Cursor on Omarchy (Cua, Edge Channel)",
+      "url": "https://www.youtube.com/watch?v=sNE7mJKa69M",
+      "watched": "2026-10-25 22:23",
+      "source": "chrome:Default",
+      "path": "agents/2026-11-13-an-ai-agent-with-its-own-cursor-on-omarchy-cua-edge-channel.md",
+      "topic": "agents",
+      "indexed": "2026-11-13T02:59:22+00:00"
+    },
+    {
+      "video_id": "fOFB1tYKP0c",
+      "title": "This will save you hours learning Quickshell.",
+      "url": "https://www.youtube.com/watch?v=fOFB1tYKP0c",
+      "watched": "2026-10-25 22:26",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-11-13-this-will-save-you-hours-learning-quickshell.md",
+      "topic": "linux-infra",
+      "indexed": "2026-11-13T02:58:49+00:00"
+    },
+    {
+      "video_id": "tMWxJuV2BR0",
+      "title": "OpenUI: Simply Imagine Your Interface, and See It Rendered in Real-Time",
+      "url": "https://www.youtube.com/watch?v=tMWxJuV2BR0",
+      "watched": "2026-10-26 19:25",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-11-13-openui-simply-imagine-your-interface-and-see-it-rendered-in.md",
+      "topic": "llm-core",
+      "indexed": "2026-11-13T02:58:00+00:00"
+    },
+    {
+      "video_id": "MdST_zkfO8I",
+      "title": "Local AI Isn't Ready Yet - So I Built An Omarchy AI Shed And Run Claude From My Phone",
+      "url": "https://www.youtube.com/watch?v=MdST_zkfO8I",
+      "watched": "2026-10-30 21:47",
+      "source": "chrome:Default",
+      "path": "agents/2026-11-13-local-ai-isn-t-ready-yet-so-i-built-an-omarchy-ai-shed-and-r.md",
+      "topic": "agents",
+      "indexed": "2026-11-13T02:52:05+00:00"
+    },
+    {
+      "video_id": "pvbsVZlDjlU",
+      "title": "Build Your First Local AI Agent (Python Tutorial) (Lesson: 01) #AIAgent #Gemma4 #Ollama #ai",
+      "url": "https://www.youtube.com/watch?v=pvbsVZlDjlU",
+      "watched": "2026-10-30 21:52",
+      "source": "chrome:Default",
+      "path": "dev-craft/2026-11-13-build-your-first-local-ai-agent-python-tutorial-lesson-01-ai.md",
+      "topic": "dev-craft",
+      "indexed": "2026-11-13T02:51:03+00:00"
+    },
+    {
+      "video_id": "NnT9vzaB9Rw",
+      "title": "The Secret to Advanced AI: Multi-Step Reasoning Explained (Lesson: 2) #Gemma4 #ollama #ai #ajagent",
+      "url": "https://www.youtube.com/watch?v=NnT9vzaB9Rw",
+      "watched": "2026-10-30 21:56",
+      "source": "chrome:Default",
+      "path": "agents/2026-11-13-the-secret-to-advanced-ai-multi-step-reasoning-explained-les.md",
+      "topic": "agents",
+      "indexed": "2026-11-13T02:49:41+00:00"
+    },
+    {
+      "video_id": "IO5lICe3tqg",
+      "title": "How to Guarantee Structured AI Outputs with Pydantic (Lesson: 3) #ollama #aiagents #gemini #ai",
+      "url": "https://www.youtube.com/watch?v=IO5lICe3tqg",
+      "watched": "2026-10-30 22:00",
+      "source": "chrome:Default",
+      "path": "agents/2026-11-13-how-to-guarantee-structured-ai-outputs-with-pydantic-lesson.md",
+      "topic": "agents",
+      "indexed": "2026-11-13T02:49:14+00:00"
+    },
+    {
+      "video_id": "Bum_TOaER04",
+      "title": "Create Open-Source Conversational AI Agent for Free! (Lesson:4) #LocalAI #Ollama #AIAgents #gemini",
+      "url": "https://www.youtube.com/watch?v=Bum_TOaER04",
+      "watched": "2026-10-30 22:01",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-11-13-create-open-source-conversational-ai-agent-for-free-lesson-4.md",
+      "topic": "llm-core",
+      "indexed": "2026-11-13T02:48:58+00:00"
+    },
+    {
+      "video_id": "wEEbyindf5U",
+      "title": "How to Build AI Agents That Never Crash (Lesson: 5) #Ollama #Gemma4 #ai #artificialintelligence",
+      "url": "https://www.youtube.com/watch?v=wEEbyindf5U",
+      "watched": "2026-10-30 22:04",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-11-13-how-to-build-ai-agents-that-never-crash-lesson-5-ollama-gemm.md",
+      "topic": "llm-core",
+      "indexed": "2026-11-13T02:48:31+00:00"
+    },
+    {
+      "video_id": "cMU-_RdXvnQ",
+      "title": "FastMCP & Python: Building Local Agent Tools Step-by-Step (Lesson:9) #ai #mcp #ollama #gemini",
+      "url": "https://www.youtube.com/watch?v=cMU-_RdXvnQ",
+      "watched": "2026-10-30 22:10",
+      "source": "chrome:Default",
+      "path": "agents/2026-11-13-fastmcp-python-building-local-agent-tools-step-by-step-lesso.md",
+      "topic": "agents",
+      "indexed": "2026-11-13T02:47:42+00:00"
+    },
+    {
+      "video_id": "JA_KKpHk8Ww",
+      "title": "Why You Shouldn't Use One LLM for Everything | Lesson:11 #ai #Ollama #OpenWebUI #Gemma #FastMCP",
+      "url": "https://www.youtube.com/watch?v=JA_KKpHk8Ww",
+      "watched": "2026-10-30 22:12",
+      "source": "chrome:Default",
+      "path": "agents/2026-11-13-why-you-shouldn-t-use-one-llm-for-everything-lesson-11-ai-ol.md",
+      "topic": "agents",
+      "indexed": "2026-11-13T02:46:45+00:00"
+    },
+    {
+      "video_id": "X1pahF0DUPk",
+      "title": "Building a Reflective Agentic RAG System (Lesson: 17) #AI #AgenticRAG #Ollama #Gemma #FastMCP",
+      "url": "https://www.youtube.com/watch?v=X1pahF0DUPk",
+      "watched": "2026-10-30 22:16",
+      "source": "chrome:Default",
+      "path": "agents/2026-11-13-building-a-reflective-agentic-rag-system-lesson-17-ai-agenti.md",
+      "topic": "agents",
+      "indexed": "2026-11-13T02:46:11+00:00"
+    },
+    {
+      "video_id": "D-4nHVL6Xw8",
+      "title": "I built a Python SDK for AI",
+      "url": "https://www.youtube.com/watch?v=D-4nHVL6Xw8",
+      "watched": "2026-11-02 20:45",
+      "source": "chrome:Default",
+      "path": "dev-craft/2026-11-13-i-built-a-python-sdk-for-ai.md",
+      "topic": "dev-craft",
+      "indexed": "2026-11-13T02:45:26+00:00"
+    },
+    {
+      "video_id": "_SB1Nl4LAV4",
+      "title": "JARVIS MLX - An open source bare-bones python voice assistant optimized for Mac.",
+      "url": "https://www.youtube.com/watch?v=_SB1Nl4LAV4",
+      "watched": "2026-11-02 20:59",
+      "source": "chrome:Default",
+      "path": "dev-craft/2026-11-13-jarvis-mlx-an-open-source-bare-bones-python-voice-assistant.md",
+      "topic": "dev-craft",
+      "indexed": "2026-11-13T02:44:39+00:00"
+    },
+    {
+      "video_id": "1kLbc_1ibnE",
+      "title": "Tiny Local AI That Sees, Hears And Talks Back",
+      "url": "https://www.youtube.com/watch?v=1kLbc_1ibnE",
+      "watched": "2026-11-09 18:50",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-11-13-tiny-local-ai-that-sees-hears-and-talks-back.md",
+      "topic": "llm-core",
+      "indexed": "2026-11-13T02:43:45+00:00"
+    },
+    {
+      "video_id": "nAkfg5TUBKk",
+      "title": "Forget Prompting. This Is How a $10B Company Uses AI Agents with Second Brain",
+      "url": "https://www.youtube.com/watch?v=nAkfg5TUBKk&t=18s",
+      "watched": "2026-11-09 18:58",
+      "source": "chrome:Default",
+      "path": "agents/2026-11-13-forget-prompting-this-is-how-a-10b-company-uses-ai-agents-wi.md",
+      "topic": "agents",
+      "indexed": "2026-11-13T02:42:16+00:00"
+    },
+    {
+      "video_id": "H4cppn0XdH0",
+      "title": "Virtual memory in telugu || Computer organization in telugu",
+      "url": "https://www.youtube.com/watch?v=H4cppn0XdH0&t=5s",
+      "watched": "2026-11-11 18:12",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-11-13-virtual-memory-in-telugu-computer-organization-in-telugu.md",
+      "topic": "llm-core",
+      "indexed": "2026-11-13T02:39:57+00:00"
+    },
+    {
+      "video_id": "MSsqjZ0_GpU",
+      "title": "Agentic AI Full Course | Build Real World AI Agents with LangChain, LangGraph, LlamaIndex & CrewAI",
+      "url": "https://www.youtube.com/watch?v=MSsqjZ0_GpU&t=61s",
+      "watched": "2026-10-09 20:07",
+      "source": "chrome:Default",
+      "path": "agents/2026-10-09-agentic-ai-full-course-build-real-world-ai-agents-with-langc.md",
+      "topic": "agents",
+      "indexed": "2026-10-09T16:10:11+00:00"
+    },
+    {
+      "video_id": "4JofSJIrjwU",
+      "title": "How to Fine-Tune any AI Model Locally (FULL Tutorial)",
+      "url": "https://www.youtube.com/watch?v=4JofSJIrjwU",
+      "watched": "2026-10-09 18:18",
+      "source": "chrome:Default",
+      "path": "ml-training/2026-10-09-how-to-fine-tune-any-ai-model-locally-full-tutorial.md",
+      "topic": "ml-training",
+      "indexed": "2026-10-09T15:42:31+00:00"
+    },
+    {
+      "video_id": "96jN2OCOfLs",
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering w/ Stephanie Zhan",
+      "url": "https://www.youtube.com/watch?v=96jN2OCOfLs",
+      "watched": "2026-10-08 11:25",
+      "source": "chrome:Default",
+      "path": "agents/2026-10-08-andrej-karpathy-from-vibe-coding-to-agentic-engineering-w-st.md",
+      "topic": "agents",
+      "indexed": "2026-10-08T06:03:20+00:00"
+    },
+    {
+      "video_id": "mrdFgLXiy-o",
+      "title": "I BUILT JARVIS IN OMARCHY",
+      "url": "https://www.youtube.com/watch?v=mrdFgLXiy-o",
+      "watched": "2026-10-07 19:26",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-10-07-i-built-jarvis-in-omarchy.md",
+      "topic": "linux-infra",
+      "indexed": "2026-10-07T14:54:28+00:00"
+    },
+    {
+      "video_id": "1a-g63ME2G8",
+      "title": "Use Opus 5.5 In Antigravity (Official Method)",
+      "url": "https://www.youtube.com/watch?v=1a-g63ME2G8",
+      "watched": "2026-10-05 22:29",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-10-05-use-opus-5-5-in-antigravity-official-method.md",
+      "topic": "llm-core",
+      "indexed": "2026-10-05T17:59:03+00:00"
+    },
+    {
+      "video_id": "xzuzf9TH1OA",
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "url": "https://www.youtube.com/watch?v=xzuzf9TH1OA",
+      "watched": "2026-10-04 06:55",
+      "source": "chrome:Default",
+      "path": "ml-training/2026-10-04-clef-open-source-decision-models-and-new-rl-fine-tuning-plat.md",
+      "topic": "ml-training",
+      "indexed": "2026-10-04T02:35:25+00:00"
+    },
+    {
+      "video_id": "3iDiWTt8lok",
+      "title": "These 19 Jev-Claude use cases are blowing people's minds (with prompts)",
+      "url": "https://www.youtube.com/watch?v=3iDiWTt8lok",
+      "watched": "2026-10-04 07:23",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-10-04-these-19-jev-claude-use-cases-are-blowing-people-s-minds-wit.md",
+      "topic": "llm-core",
+      "indexed": "2026-10-04T02:34:20+00:00"
+    },
+    {
+      "video_id": "3utOGJsj9ko",
+      "title": "I Trusted Omarchy’s AI With My Linux Desktop",
+      "url": "https://www.youtube.com/watch?v=3utOGJsj9ko",
+      "watched": "2026-10-04 07:23",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-10-04-i-trusted-omarchy-s-ai-with-my-linux-desktop.md",
+      "topic": "linux-infra",
+      "indexed": "2026-10-04T02:32:52+00:00"
+    },
+    {
+      "video_id": "eSuMmMMMrm0",
+      "title": "CLIP… But For Decisions (Contrastive Language Models Explained)",
+      "url": "https://www.youtube.com/watch?v=eSuMmMMMrm0",
+      "watched": "2026-10-03 18:09",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-10-04-clip-but-for-decisions-contrastive-language-models-explained.md",
+      "topic": "llm-core",
+      "indexed": "2026-10-04T00:00:47+00:00"
+    },
+    {
+      "video_id": "xVLz32EWmz0",
+      "title": "NYU Proffesor Yann LeCun Explains What Comes After LLMs",
+      "url": "https://www.youtube.com/watch?v=xVLz32EWmz0",
+      "watched": "2026-10-03 18:21",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-10-04-nyu-proffesor-yann-lecun-explains-what-comes-after-llms.md",
+      "topic": "llm-core",
+      "indexed": "2026-10-03T23:59:33+00:00"
+    },
+    {
+      "video_id": "_LCeJZFIsd4",
+      "title": "Building a Software Factory that actually works (Full Course)",
+      "url": "https://www.youtube.com/watch?v=_LCeJZFIsd4",
+      "watched": "2026-10-03 11:16",
+      "source": "chrome:Default",
+      "path": "dev-craft/2026-10-03-building-a-software-factory-that-actually-works-full-course.md",
+      "topic": "dev-craft",
+      "indexed": "2026-10-03T12:33:01+00:00"
+    },
+    {
+      "video_id": "qLfSDQ5NGh0",
+      "title": "He Finally 10x Claude Code With This Method",
+      "url": "https://www.youtube.com/watch?v=qLfSDQ5NGh0&t=449s",
+      "watched": "2026-10-03 11:41",
+      "source": "chrome:Default",
+      "path": "agents/2026-10-03-he-finally-10x-claude-code-with-this-method.md",
+      "topic": "agents",
+      "indexed": "2026-10-03T12:29:32+00:00"
+    },
+    {
+      "video_id": "KzCI6usl5kk",
+      "title": "This Pydantic AI feature make browser automation easy",
+      "url": "https://www.youtube.com/watch?v=KzCI6usl5kk",
+      "watched": "2026-10-03 14:05",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-10-03-this-pydantic-ai-feature-make-browser-automation-easy.md",
+      "topic": "llm-core",
+      "indexed": "2026-10-03T12:25:03+00:00"
+    },
+    {
+      "video_id": "tYchws8hpd8",
+      "title": "AI Harness Engineering - Forward Deployed Engineering Tutorial",
+      "url": "https://www.youtube.com/watch?v=tYchws8hpd8",
+      "watched": "2026-10-03 14:06",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-10-03-ai-harness-engineering-forward-deployed-engineering-tutorial.md",
+      "topic": "linux-infra",
+      "indexed": "2026-10-03T12:22:48+00:00"
+    },
+    {
+      "video_id": "epg292lGCZ4",
+      "title": "Agentic engineering: Graphs, workflows, verifiable coding agent runtimes, and staying in control",
+      "url": "https://www.youtube.com/watch?v=epg292lGCZ4&t=214s",
+      "watched": "2026-10-03 15:03",
+      "source": "chrome:Default",
+      "path": "agents/2026-10-03-agentic-engineering-graphs-workflows-verifiable-coding-agent.md",
+      "topic": "agents",
+      "indexed": "2026-10-03T12:21:42+00:00"
+    },
+    {
+      "video_id": "Wzpz7rQawNo",
+      "title": "Pi vs PiG: Is This New Go Agent Faster?",
+      "url": "https://www.youtube.com/watch?v=Wzpz7rQawNo",
+      "watched": "2026-10-03 15:21",
+      "source": "chrome:Default",
+      "path": "agents/2026-10-03-pi-vs-pig-is-this-new-go-agent-faster.md",
+      "topic": "agents",
+      "indexed": "2026-10-03T12:18:31+00:00"
+    },
+    {
+      "video_id": "Pic4NLTjx6w",
+      "title": "Gemini 4 RSI Leak Destroys Astra and Fable in Benchmarks",
+      "url": "https://www.youtube.com/watch?v=Pic4NLTjx6w",
+      "watched": "2026-10-03 15:23",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-10-03-gemini-4-rsi-leak-destroys-astra-and-fable-in-benchmarks.md",
+      "topic": "llm-core",
+      "indexed": "2026-10-03T12:17:25+00:00"
+    },
+    {
+      "video_id": "63nU3-EXf6g",
+      "title": "DeepSeek Has RSI Now",
+      "url": "https://www.youtube.com/watch?v=63nU3-EXf6g",
+      "watched": "2026-10-03 15:40",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-10-03-deepseek-has-rsi-now.md",
+      "topic": "llm-core",
+      "indexed": "2026-10-03T12:15:02+00:00"
+    },
+    {
+      "video_id": "aJP592JaBCA",
+      "title": "The First Real RSI is Here and It’s Evolving Fast",
+      "url": "https://www.youtube.com/watch?v=aJP592JaBCA",
+      "watched": "2026-10-03 15:41",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-10-03-the-first-real-rsi-is-here-and-it-s-evolving-fast.md",
+      "topic": "llm-core",
+      "indexed": "2026-10-03T12:13:03+00:00"
+    },
+    {
+      "video_id": "L-6O7R71CCg",
+      "title": "This Tiny AI Never Stops Learning (mini-AGI)",
+      "url": "https://www.youtube.com/watch?v=L-6O7R71CCg",
+      "watched": "2026-10-03 16:00",
+      "source": "chrome:Default",
+      "path": "ml-training/2026-10-03-this-tiny-ai-never-stops-learning-mini-agi.md",
+      "topic": "ml-training",
+      "indexed": "2026-10-03T12:06:34+00:00"
+    },
+    {
+      "video_id": "lOedDFKrC7Y",
+      "title": "How to build an Agentic Software Factory",
+      "url": "https://www.youtube.com/watch?v=lOedDFKrC7Y",
+      "watched": "2026-10-02 20:15",
+      "source": "chrome:Default",
+      "path": "agents/2026-10-03-how-to-build-an-agentic-software-factory.md",
+      "topic": "agents",
+      "indexed": "2026-10-03T02:51:05+00:00"
+    },
+    {
+      "video_id": "DcLj_SO8JNk",
+      "title": "AI Software Factories Are the Next Big Thing (And I'm Building You One)",
+      "url": "https://www.youtube.com/watch?v=DcLj_SO8JNk",
+      "watched": "2026-10-02 20:18",
+      "source": "chrome:Default",
+      "path": "agents/2026-10-03-ai-software-factories-are-the-next-big-thing-and-i-m-buildin.md",
+      "topic": "agents",
+      "indexed": "2026-10-03T02:50:09+00:00"
+    },
+    {
+      "video_id": "x80JzhHeV0w",
+      "title": "This AI Can Edit Its Own Code and Evolve (its free)",
+      "url": "https://www.youtube.com/watch?v=x80JzhHeV0w&t=136s",
+      "watched": "2026-10-02 20:19",
+      "source": "chrome:Default",
+      "path": "agents/2026-10-03-this-ai-can-edit-its-own-code-and-evolve-its-free.md",
+      "topic": "agents",
+      "indexed": "2026-10-03T02:49:02+00:00"
+    },
+    {
+      "video_id": "3oGDb2wzpGA",
+      "title": "AI Built an OS… and It Actually Works",
+      "url": "https://www.youtube.com/watch?v=3oGDb2wzpGA",
+      "watched": "2026-09-29 11:10",
+      "source": "chrome:Default",
+      "path": "llm-core/2026-09-30-ai-built-an-os-and-it-actually-works.md",
+      "topic": "llm-core",
+      "indexed": "2026-09-30T16:35:50+00:00"
+    },
+    {
+      "video_id": "b4ZTfs0KwR0",
+      "title": "OpenAI Dots Alternative: Free, Open Source & Any Model",
+      "url": "https://www.youtube.com/watch?v=b4ZTfs0KwR0",
+      "watched": "2026-09-30 19:08",
+      "source": "chrome:Default",
+      "path": "dev-craft/2026-09-30-openai-dots-alternative-free-open-source-any-model.md",
+      "topic": "dev-craft",
+      "indexed": "2026-09-30T16:34:43+00:00"
+    },
+    {
+      "video_id": "GYYP-eW58ug",
+      "title": "How to Secure & Run AI Agents with NVIDIA OpenShell",
+      "url": "https://www.youtube.com/watch?v=GYYP-eW58ug",
+      "watched": "2026-09-30 19:08",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-09-30-how-to-secure-run-ai-agents-with-nvidia-openshell.md",
+      "topic": "linux-infra",
+      "indexed": "2026-09-30T16:32:16+00:00"
+    },
+    {
+      "video_id": "fnKP5DQW3ew",
+      "title": "OpenShell: NVIDIA’s Plan for Safe AI Agents",
+      "url": "https://www.youtube.com/watch?v=fnKP5DQW3ew",
+      "watched": "2026-09-30 19:14",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-09-30-openshell-nvidia-s-plan-for-safe-ai-agents.md",
+      "topic": "linux-infra",
+      "indexed": "2026-09-30T16:31:49+00:00"
+    },
+    {
+      "video_id": "HBa1gCLXTC4",
+      "title": "OpenManus VS Manus: Who Wins?",
+      "url": "https://www.youtube.com/watch?v=HBa1gCLXTC4",
+      "watched": "2026-09-28 17:16",
+      "source": "chrome:Default",
+      "path": "dev-craft/2026-09-29-openmanus-vs-manus-who-wins.md",
+      "topic": "dev-craft",
+      "indexed": "2026-09-29T16:33:43+00:00"
+    },
+    {
+      "video_id": "mbAOMu3ERyo",
+      "title": "Paperclip vs Multica: Which AI Agent Orchestrator is Actually Good? (2026 Latest Review)",
+      "url": "https://www.youtube.com/watch?v=mbAOMu3ERyo&t=43s",
+      "watched": "2026-09-29 10:25",
+      "source": "chrome:Default",
+      "path": "agents/2026-09-29-paperclip-vs-multica-which-ai-agent-orchestrator-is-actually.md",
+      "topic": "agents",
+      "indexed": "2026-09-29T16:32:35+00:00"
+    },
+    {
+      "video_id": "Et5cxBu_D8Y",
+      "title": "Hermes + Paperclip AI + LiteLLM: How to Build an AI Product Studio",
+      "url": "https://www.youtube.com/watch?v=Et5cxBu_D8Y",
+      "watched": "2026-09-29 10:25",
+      "source": "chrome:Default",
+      "path": "agents/2026-09-29-hermes-paperclip-ai-litellm-how-to-build-an-ai-product-studi.md",
+      "topic": "agents",
+      "indexed": "2026-09-29T16:31:59+00:00"
+    },
+    {
+      "video_id": "Y-9ChZWD97U",
+      "title": "Autonomous AI and Agent Orchestration - Buzz + Paperclip",
+      "url": "https://www.youtube.com/watch?v=Y-9ChZWD97U",
+      "watched": "2026-09-29 10:32",
+      "source": "chrome:Default",
+      "path": "agents/2026-09-29-autonomous-ai-and-agent-orchestration-buzz-paperclip.md",
+      "topic": "agents",
+      "indexed": "2026-09-29T16:31:03+00:00"
+    },
+    {
+      "video_id": "Bj4mNOYjOek",
+      "title": "Paperclip AI Is Insane | Build a Company Run Entirely by AI",
+      "url": "https://www.youtube.com/watch?v=Bj4mNOYjOek",
+      "watched": "2026-09-29 10:35",
+      "source": "chrome:Default",
+      "path": "linux-infra/2026-09-29-paperclip-ai-is-insane-build-a-company-run-entirely-by-ai.md",
+      "topic": "linux-infra",
+      "indexed": "2026-09-29T16:17:20+00:00"
+    },
+    {
+      "video_id": "UaX3KhlvM7Q",
+      "title": "Run Hermes Agent on a FREE VPS (UNLIMITED USE)",
+      "url": "https://www.youtube.com/watch?v=UaX3KhlvM7Q",
+      "watched": "2026-09-29 11:04",
+      "source": "chrome:Default",
+      "path": "agents/2026-09-29-run-hermes-agent-on-a-free-vps-unlimited-use.md",
+      "topic": "agents",
+      "indexed": "2026-09-29T16:14:24+00:00"
+    },
+    {
+      "video_id": "RpUTF_U4kiw",
+      "title": "Claude Code Multi-Agent Orchestration with Opus 4.6, Tmux and Agent Sandboxes",
+      "url": "https://www.youtube.com/watch?v=RpUTF_U4kiw",
+      "watched": "2026-09-29 11:19",
+      "source": "chrome:Default",
+      "path": "agents/2026-09-29-claude-code-multi-agent-orchestration-with-opus-4-6-tmux-and.md",
+      "topic": "agents",
+      "indexed": "2026-09-29T11:07:18+00:00"
+    },
+    {
+      "video_id": "RWT3sh68PWE",
+      "title": "Introducing multi-agent orchestration",
+      "url": "https://www.youtube.com/watch?v=RWT3sh68PWE",
+      "watched": "2026-09-29 11:26",
+      "source": "chrome:Default",
+      "path": "agents/2026-09-29-introducing-multi-agent-orchestration.md",
+      "topic": "agents",
+      "indexed": "2026-09-29T11:05:18+00:00"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[Unit]
+Description=Run yt-brain YouTube pipeline hourly
+Documentation=file:%h/jarvis-yt-brain/yt_brain/README.md
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=1h
+Persistent=true
+AccuracySec=1m
+Unit=yt-agents.service
+
+[Install]
+WantedBy=timers.target

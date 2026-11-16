@@ -1,0 +1,28 @@
+[Unit]
+Description=Jarvis Agent Bus (UNIX domain socket broker)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/jarvis-yt-brain/core_engine
+ExecStart=%h/jarvis-yt-brain/core_engine/.venv/bin/python -m core_engine.agent_bus server
+Restart=on-failure
+RestartSec=3
+RestartForceExitStatus=143
+
+NoNewPrivileges=yes
+PrivateTmp=no
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=%h/jarvis-yt-brain
+Environment=TMPDIR=%h/jarvis-yt-brain/tmp
+Environment=JARVIS_BUS_SOCKET=%h/jarvis-yt-brain/run/agent_bus.sock
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+RestrictSUIDSGID=yes
+RestrictRealtime=yes
+LockPersonality=yes
+MemoryDenyWriteExecute=yes
+
+[Install]
+WantedBy=default.target

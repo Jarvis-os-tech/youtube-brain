@@ -1,0 +1,12 @@
+[project]
+name = "core-engine"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.setuptools]
+packages = ["core_engine"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

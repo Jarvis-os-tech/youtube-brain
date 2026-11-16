@@ -1,0 +1,54 @@
+# Python & Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.ruff_cache/
+.pytest_cache/
+
+# Runtime IPC sockets, logs, and temp directories
+run/
+tmp/
+logs/
+*.log
+*.tmp
+buffer.txt
+yt_brain/buffer.txt
+yt_brain/tmp/
+yt_brain/logs/
+
+# Agent caches and sandbox data
+opencode-data/
+opencode-cache/
+opencode-state/
+yt_brain/opencode-data/
+yt_brain/opencode-cache/
+
+# Local databases & state
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3
+processed_videos.json
+yt_brain/processed_videos.json
+
+# Raw intermediate pipeline directories
+yt_brain/transcripts/
+yt_brain/classified/
+yt_brain/reviews/review-*.md
+
+# Sensitive files & exported browser cookies
+cookies.txt
+yt_brain/cookies.txt
+*.cookie
+*.cookies
+.env
+.env.*
+
+# Obsidian internal configuration
+.obsidian/
+vault/.obsidian/
